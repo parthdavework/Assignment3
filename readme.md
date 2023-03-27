@@ -156,3 +156,6 @@ class Database():
 ```
 
 This concludes the code to have CRUD operations via Flask.
+
+# Run Application
+Run `docker-compose up` command to launch the application.
